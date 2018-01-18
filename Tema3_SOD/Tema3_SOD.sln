@@ -7,12 +7,18 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tema3_SOD", "Tema3_SOD\Tema
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Cloud|x64 = Debug Cloud|x64
+		Debug Cloud|x86 = Debug Cloud|x86
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0D65C5-AEFA-4037-871A-5DD236150D50}.Debug Cloud|x64.ActiveCfg = Debug Cloud|x64
+		{3B0D65C5-AEFA-4037-871A-5DD236150D50}.Debug Cloud|x64.Build.0 = Debug Cloud|x64
+		{3B0D65C5-AEFA-4037-871A-5DD236150D50}.Debug Cloud|x86.ActiveCfg = Debug Cloud|Win32
+		{3B0D65C5-AEFA-4037-871A-5DD236150D50}.Debug Cloud|x86.Build.0 = Debug Cloud|Win32
 		{3B0D65C5-AEFA-4037-871A-5DD236150D50}.Debug|x64.ActiveCfg = Debug|x64
 		{3B0D65C5-AEFA-4037-871A-5DD236150D50}.Debug|x64.Build.0 = Debug|x64
 		{3B0D65C5-AEFA-4037-871A-5DD236150D50}.Debug|x86.ActiveCfg = Debug|Win32
